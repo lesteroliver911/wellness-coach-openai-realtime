@@ -10,7 +10,7 @@ The OpenAI real-time API can be expensive for long conversations. Please monitor
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/lesteroliver911/wellness-coach-openai-realtime]
 cd openai-realtime
 ```
 
