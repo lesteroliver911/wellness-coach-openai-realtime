@@ -2,7 +2,9 @@
 
 A real-time AI wellness coaching application powered by OpenAI's latest real-time api. Chat with an AI wellness coach through text or voice to get personalized health and nutrition guidance.
 
-[https://github.com/lesteroliver911/wellness-coach-openai-realtime/assets/lesteroliver-wellness-coach-openai-realtime.mp4]
+## Demo
+
+🎥 [Watch Demo Video](https://github.com/lesteroliver911/wellness-coach-openai-realtime/assets/lesteroliver-wellness-coach-openai-realtime.mp4)
 
 ## ⚠️ Important Note
 
