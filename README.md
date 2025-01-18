@@ -4,10 +4,7 @@ A real-time AI wellness coaching application powered by OpenAI's latest real-tim
 
 ## ⚠️ Important Note
 
-The OpenAI real-time API can be expensive for long conversations. Please monitor your usage and set appropriate limits. Each conversation includes:
-- Real-time audio streaming costs
-- Model usage costs for processing both text and audio
-- Additional charges for longer conversations
+The OpenAI real-time API can be expensive for long conversations. Please monitor your usage and set appropriate limits.
 
 ## 🚀 Quick Start
 
