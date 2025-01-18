@@ -4,7 +4,7 @@ A real-time AI wellness coaching application powered by OpenAI's latest real-tim
 
 ## Demo
 
-[Demo](lesteroliver-wellness-coach-openai-realtime.mp4)
+![Demo](assets/lesteroliver-wellness-coach-openai-realtime.mp4)
 
 ## ⚠️ Important Note
 
