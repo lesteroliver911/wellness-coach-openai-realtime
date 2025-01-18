@@ -1,4 +1,4 @@
-# AI Wellness Coach with Openai Realtime API
+# AI Wellness Coach with OpenAi Realtime API
 
 A real-time AI wellness coaching application powered by OpenAI's latest real-time api. Chat with an AI wellness coach through text or voice to get personalized health and nutrition guidance.
 
